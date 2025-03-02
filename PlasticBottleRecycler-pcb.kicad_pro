@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.4
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -633,6 +633,14 @@
     [
       "c51650f7-23d3-4d5b-a33d-b0b15813d2a4",
       "Root"
+    ],
+    [
+      "a1b985b8-1f7d-431e-ad76-a67f14d3c119",
+      "Controller Board"
+    ],
+    [
+      "cbd1c2af-ccb1-4b69-aacb-bd011f589908",
+      "IO Board"
     ]
   ],
   "text_variables": {}
